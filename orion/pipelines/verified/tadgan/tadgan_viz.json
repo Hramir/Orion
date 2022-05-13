@@ -69,10 +69,6 @@
             {
                 "name": "generated_timeseries",
                 "variable": "orion.primitives.tadgan.score_anomalies#1.predictions"
-            },
-            {
-                "name": "original_timeseries",
-                "variable": "orion.primitives.tadgan.score_anomalies#1.true"
             }
         ]
     }
